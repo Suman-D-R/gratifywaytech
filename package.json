@@ -9,9 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mantine/hooks": "^7.10.0",
+    "aos": "^2.3.4",
+    "gsap": "^3.12.5",
+    "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "split-type": "^0.3.4",
+    "swiper": "*",
+    "three": "^0.164.1",
+    "vanta": "^0.5.24"
   },
   "devDependencies": {
     "postcss": "^8",
